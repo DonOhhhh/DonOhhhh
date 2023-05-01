@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DonOhhhh&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Don%20Oh&fontSize=90)
 
-## ✋🏻 Hi, I'm DonOhhhh
+## ✋🏻 Hi, I'm Don Oh
 
-I'm Interested in Everything related to Programming
+I'm interested in everything related to programming
 
 ## 🔗 Link
 
