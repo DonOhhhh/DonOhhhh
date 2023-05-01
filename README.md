@@ -29,9 +29,7 @@ I'm Interested in Everything related to Programming
 
 ## 📊 Statistics
 
-[![DonOhhhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonOhhhh&theme=dark)](https://github.com/DonOhhhh/github-readme-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonOhhhh&theme=dark)](https://github.com/DonOhhhh/github-readme-stats)
+[![DonOhhhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonOhhhh&theme=dark)](https://github.com/DonOhhhh/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonOhhhh&theme=dark)](https://github.com/DonOhhhh/github-readme-stats)
 
 
 ## Solved.ac
